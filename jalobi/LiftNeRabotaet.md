@@ -22,8 +22,10 @@
 
 1)	Отчет из личного кабинета ПЛК (Первая лифтовая компания, подрядная организация обслуживающая лифты);
 для загрузки нажмите кнопку Download справа
+
 https://github.com/mirmitino/docs/blob/master/jalobi/plk.zip
 
 2)	Excel документ для удобства фильтрации заявок.
 для загрузки нажмите кнопку Download справа
+
 https://github.com/mirmitino/docs/blob/master/jalobi/Zayavki_38k2_4p.xlsx
